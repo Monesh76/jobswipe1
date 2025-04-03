@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/partner/dashboard/page": "app/partner/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/admin/manage-restaurants/page": "app/admin/manage-restaurants/page.js",
+  "/partner/view-all-restaurants/page": "app/partner/view-all-restaurants/page.js",
+  "/partner/add-new-restaurant/page": "app/partner/add-new-restaurant/page.js",
+  "/profile/page": "app/profile/page.js"
+}
